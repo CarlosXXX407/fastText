@@ -22,4 +22,4 @@ int64_t Matrix::size(int64_t dim) const {
   return n_;
 }
 
-} // namespace fasttext
+} // namespacefasttext
